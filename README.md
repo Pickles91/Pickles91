@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everthing about computers and programming.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on networking and learning.
-- 📫 How to reach me at stevensommer91@gmail.com.
+- 📫 I can be reached at stevensommer91@gmail.com or Discord (Pickles91#6202)
 
 <!---
 Pickles91/Pickles91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
