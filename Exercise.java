@@ -2,7 +2,7 @@
  *Author: Steven Sommer
  *Date: 9-2-19
  *Course: COMP2243-31
- *Description:Exercise Assassignment 1
+ *Description:Exercise Assignment 1
  *             
  */
 
