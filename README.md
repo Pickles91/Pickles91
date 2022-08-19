@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pickles91 (Steven Sommer)
-- 👀 I’m interested in learning everthing about computers and programming.
+- 👀 I’m interested in learning everything about computers and programming.
 - 🌱 I’m currently learning Java, Python, SQL, HTML, CSS, C++ and JavaScript
 - 💞️ I’m looking to collaborate on networking and learning.
 - 📫 I can be reached at stevensommer91@gmail.com or Discord (Pickles91#6202)
