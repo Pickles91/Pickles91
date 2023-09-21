@@ -4,7 +4,7 @@
 -  My Website: www.ssommer.tech
 -  I’m interested in learning everything about computers and programming.
 -  I’m skilled in Java, Python, SQL, HTML, CSS, C#, ASP.Net and JavaScript
--  I can be reached at stevensommer91@gmail.com or Discord (Pickles91#6202)
+-  I can be reached at steven.sommer@go.winona.edu or Discord (Pickles91#6202)
 
 <!---
 Pickles91/Pickles91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
