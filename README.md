@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pickles91 (Stephan "Steve" Sommer)
+- 👋 Hi, I’m @Pickles91 (Stephen Sommer)
 -  Computer Science Student at Winona State University.
 -  Software Developer at Fastenal Company.
 -  My Website: www.ssommer.tech
