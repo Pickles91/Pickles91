@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pickles91 (Stephen Sommer)
 -  Computer Science Student at Winona State University.
--  Software Developer at Fastenal Company.
+-  AI Developer at Fastenal Company.
 -  My Website: www.ssommer.tech
 -  I’m interested in learning everything about computers and programming.
 -  I’m skilled in Java, Python, SQL, HTML, CSS, C#, ASP.Net and JavaScript
